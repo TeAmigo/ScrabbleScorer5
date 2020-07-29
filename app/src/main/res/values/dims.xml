@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="activeValue_height">70dp</dimen>
+    <dimen name="activeValue_width">100dp</dimen>
+    <dimen name="init_value">000</dimen>
+    <dimen name="padding">4sp</dimen>
+    <dimen name="font_size_big">36sp</dimen>
+    <dimen name="font_size_small">24sp</dimen>
+    <dimen name="standard_margin">16dp</dimen>
+    <dimen name="small_margin">2dp</dimen>
+    <dimen name="big_margin">24dp</dimen>
+    <dimen name="text_min_small">6sp</dimen>
+    <dimen name="text_max_small">42sp</dimen>
+    <dimen name="text_min_large">10sp</dimen>
+    <dimen name="text_max_large">84sp</dimen>
+    <dimen name="text_granularity">2sp</dimen>
+    <dimen name="playnumber_width">99dp</dimen>
+    <dimen name="player_width">181dp</dimen>
+    <dimen name="score_width">99dp</dimen>
+ </resources>

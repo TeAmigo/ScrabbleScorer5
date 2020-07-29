@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ScrabbleScorer</string>
+    <string name="new_game">New Game</string>
+    <string name="list_game">List Game</string>
+    <string name="initval">000</string>
+    <string name="game_top_table">GameTop</string>
+    <string name="game_play_table">GamePlay</string>
+    <string name="export_db">Export DB</string>
+</resources>
